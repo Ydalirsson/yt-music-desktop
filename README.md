@@ -1,1 +1,6 @@
-# yt-music-desktop
+# Youtube Music Desktop App
+[Youtube Music](https://music.youtube.com/) does not currently offer a (native) desktop app. Either you have to call it up in any browser or you can install it as a browser plug-in. However, you can download a desktop app under [Release](https://github.com/Ydalirsson/yt-music-desktop/releases). It was created very simply with [Nativefier](https://github.com/nativefier/nativefier) and turns the website into a desktop app based on [Electron](https://www.electronjs.org). 
+
+The app only shows the website and offers no additional features. It is portable, which means you can save the entire downloader folder anywhere you like and the settings made in the app remain saved in the folder. The entire folder is needed for the app to run. From there, you can create a link from the executable to the desktop or your taskbar. No installation required.
+
+This is good if you want to use Youtube Music as a kind of desktop, but don't want to install a browser plugin or run the music player directly in your browser. Even if you have different Google accounts, the app isolates your login. You don't need to keep changing your account if you use a specific account to use it. 
